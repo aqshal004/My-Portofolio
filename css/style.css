@@ -517,6 +517,18 @@ footer {
         font-size: 1.8rem;
         color: var(--color-black);
     }
+
+    /* start header */
+    .header-container {
+        grid-template-columns: 1fr;
+    }
+    .header-left {
+        text-align: center;
+        margin-top: -20rem;
+    }
+    .header-right {
+        grid-row: 1;
+    }
     
     /* start about */
     .about-container {

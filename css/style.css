@@ -517,19 +517,18 @@ footer {
         font-size: 1.8rem;
         color: var(--color-black);
     }
-
     /* start header */
     .header-container {
         grid-template-columns: 1fr;
     }
     .header-left {
-        text-align: center;
+        text-align: left;
         margin-top: -20rem;
     }
     .header-right {
         grid-row: 1;
+        margin-right: 2rem;
     }
-    
     /* start about */
     .about-container {
         grid-template-columns: 1fr;

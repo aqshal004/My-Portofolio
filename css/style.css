@@ -149,7 +149,7 @@ nav {
 }
 
 .logo span {
-    color: var(--color-dark);
+    color: var(--color-primary);
 }
 
 .nav-links {
@@ -398,7 +398,6 @@ header {
 
 .project img {
     height: 14rem;
-    object-fit: cover;
 }
 
 .project-action {
